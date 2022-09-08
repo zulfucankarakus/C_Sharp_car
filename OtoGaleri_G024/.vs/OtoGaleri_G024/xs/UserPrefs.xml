@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A0EAB1A7-2B00-4F59-9289-9EA4469B2350}|Default">
+  <MonoDevelop.Ide.ItemProperties.OtoGaleri__G024 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OtoGaleri_G024/Galeri .cs">
+    <Files>
+      <File FileName="OtoGaleri_G024/Program .cs" Line="1" Column="1" />
+      <File FileName="OtoGaleri_G024/Galeri .cs" Line="1" Column="1" />
+      <File FileName="OtoGaleri_G024/Araba .cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OtoGaleri_G024" expanded="True">
+            <Node name="OtoGaleri_G024" expanded="True">
+              <Node name="Galeri .cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

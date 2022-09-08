@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/OtoGaleri_G024.csproj": {}
+  },
+  "projects": {
+    "/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/OtoGaleri_G024.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/OtoGaleri_G024.csproj",
+        "projectName": "OtoGaleri_G024",
+        "projectPath": "/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/OtoGaleri_G024.csproj",
+        "packagesPath": "/Users/zulfucankarakus/.nuget/packages/",
+        "outputPath": "/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/zulfucankarakus/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

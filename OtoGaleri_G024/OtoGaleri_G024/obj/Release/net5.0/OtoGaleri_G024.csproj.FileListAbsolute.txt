@@ -1,0 +1,16 @@
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/bin/Release/net5.0/OtoGaleri_G024
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/bin/Release/net5.0/OtoGaleri_G024.deps.json
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/bin/Release/net5.0/OtoGaleri_G024.runtimeconfig.json
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/bin/Release/net5.0/OtoGaleri_G024.runtimeconfig.dev.json
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/bin/Release/net5.0/OtoGaleri_G024.dll
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/bin/Release/net5.0/ref/OtoGaleri_G024.dll
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/bin/Release/net5.0/OtoGaleri_G024.pdb
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/Release/net5.0/OtoGaleri_G024.csproj.AssemblyReference.cache
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/Release/net5.0/OtoGaleri_G024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/Release/net5.0/OtoGaleri_G024.AssemblyInfoInputs.cache
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/Release/net5.0/OtoGaleri_G024.AssemblyInfo.cs
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/Release/net5.0/OtoGaleri_G024.csproj.CoreCompileInputs.cache
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/Release/net5.0/OtoGaleri_G024.dll
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/Release/net5.0/ref/OtoGaleri_G024.dll
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/Release/net5.0/OtoGaleri_G024.pdb
+/Users/zulfucankarakus/Desktop/OtoGaleri_G024/OtoGaleri_G024/obj/Release/net5.0/OtoGaleri_G024.genruntimeconfig.cache
